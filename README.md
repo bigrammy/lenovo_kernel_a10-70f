@@ -16,8 +16,7 @@ $ ```export CROSS_COMPILE=arm-eabi-```
 
 Then use the following commands to build the kernel:
 
-$ ```cd ~/Storage/lenovo_kernel_a10-70f```
-
+$ ```cd ~/PATH-TO-YOUR/lenovo_kernel_a10-70f```
 
 
 This will build the kernel
