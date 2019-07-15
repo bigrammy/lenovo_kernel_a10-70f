@@ -8,8 +8,8 @@ kernel build instruction
 ##Example:
 $ ```git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8```
 
-## This is arm64 build later if we can update the kernel that is.
-#$ ```git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8```#
+(#This is arm64 build later if we can update the kernel that is.#
+#$ ```git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8```#)
 
 Add required cross compiler to PATH:
 $ ```export PATH=/YOUR_TOOLCHAIN_PATH/arm-eabi-4.8/bin:$PATH```
