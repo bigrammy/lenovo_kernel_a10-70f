@@ -32,9 +32,9 @@ $ ```./mk --help```
 This will setup the project:
 $ ```./makeMtk huaqin8752_tb_b2d_kk```
 
-##More Notes Correction As I come across them.
+## More Notes Correction As I come across them.
 
-##This is arm64 build later if we can update the kernel that is.
+## This is arm64 build later if we can update the kernel that is.
 #$ ```git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8```#
 ## This is arm64 build later if we can update the kernel that is.
 #$ ```export PATH=/YOUR_TOOLCHAIN_PATH/aarch64-linux-android-4.8/bin:$PATH```#
